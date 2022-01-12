@@ -3,5 +3,10 @@ spring:
     config:
       name: myapp
 
+management:
+  security:
+    enabled: false
+
 messaging:
   controller: "Mudanca feita e atualiza a entrega no controller 2 "
+
