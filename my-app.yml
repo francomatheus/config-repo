@@ -12,5 +12,5 @@ management:
         include: '*'
 
 messaging:
-  controller: "Mudanca feita e atualiza a entrega no controller 2"
+  controller: "Mudanca feita e atualiza a entrega no controller 55"
 
