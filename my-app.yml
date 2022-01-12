@@ -6,6 +6,11 @@ spring:
 management:
   security:
     enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: *
+
 
 messaging:
   controller: "Mudanca feita e atualiza a entrega no controller 2 "
