@@ -4,4 +4,4 @@ spring:
       name: myapp
 
 messaging:
-  controller: "Mudanca feita e atualiza a entrega no controller"
+  controller: "Mudanca feita e atualiza a entrega no controller 2 "
